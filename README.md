@@ -40,9 +40,9 @@ Also, there will be some optional features that you can implement which are wort
 ## Prizes
 
 There will be three prizes:
-- First place: _Will be announced soon_
-- Second place: _Will be announced soon_
-- Third place: _Will be announced soon_
+- First place: [Oculus Rift VR](https://www.oculus.com/)
+- Second place: [Amazon Echo](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011)
+- Third place: [Chrome cast](https://store.google.com/product/chromecast_2015)
 
 **Only submissions with a score of 40 and higher will be eligible for prizes.**
 
