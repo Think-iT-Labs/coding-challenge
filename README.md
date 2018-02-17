@@ -161,8 +161,8 @@ For now, only strings are supported. Both simple `('TEST')` and double quotes `(
 > DELETE "Ali" FROM users
 * ERROR
 > FIND ALL IN users
-* 'Nikola', 'Tesla'
-> DELETE "Nikola" FROM users
+* 'Ni\'kola', 'Tesla'
+> DELETE "Ni'kola" FROM users
 * OK
 > FIND ALL IN users
 > 
