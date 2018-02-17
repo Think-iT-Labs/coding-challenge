@@ -212,11 +212,6 @@ Having a neat and structured code is a must. The code quality metric will be che
 
 > PS: You don't have to put comments every where
 
-### Extra points
-
-You will get extra 5 points if you make a library for your solution, so it can be used through a programming language API.
-
-You will also be granted extra 10 points if you manage to make a very simple [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping) for your solution, to abstract the query language and use a Object Oriented approach.
 
 ## Winner
 
