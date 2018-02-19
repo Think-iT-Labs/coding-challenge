@@ -6,6 +6,7 @@
 </div>
 
 
+
 ## Welcome
 
 It is with great pride that we launch our first coding challenge.
@@ -14,15 +15,21 @@ In this challenge, there will be a coding problem that you’ll have to solve wi
 
 ## Contents
 
+* [Result](#result)
 * [Challenge Description](#challenge-description)
 * [Requirements](#requirements)
     * [Storage Engine](#storage-engine)
     * [Query Interpreter](#query-interpreter)
     * [Example usage](#example-usage)
-* [How to submit](#how-to-submit)
 * [Score system](#score-system)
 * [Price](#price)
 * [Winner](#winner)
+
+
+## Result
+
+The challenge has come to an end, and the result will be announced shortly after reviewing all submissions.
+
 
 ## Challenge Description
 
@@ -169,10 +176,6 @@ For now, only strings are supported. Both simple `('TEST')` and double quotes `(
 
 ```
 
-
-## How to submit
-
-To submit your solution, fill this [form](https://goo.gl/forms/2qWbZAQeNmfDsamZ2) and attach it as a `zip` file.
 
 ## Prizes
 
