@@ -232,8 +232,8 @@ This project requires python3.6 and has no dependencies other than the standard 
 This is my implementation of a document based database system .
 Every entry data is stored under storage/{table_name}/{entry_primary_key}
 
--The table class manages a table and its entries , the engine manages all table and it's used by both the API wrapper class and the interpreter.
--The API class is used by the ORM and could be used by external programs if needed. ( given they are written in Python )
+-The table class manages a table and its entries , the engine manages all table and it's used by both the API wrapper class and the interpreter.  
+-The API class is used by the ORM and could be used by external programs if needed. ( given they are written in Python )  
 -The interpreter is regex based and has no tokenizing since we have a limited number of statement and implementating a lexer etc would result in huge performance loss.
 
 
