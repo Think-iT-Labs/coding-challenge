@@ -24,6 +24,7 @@ In this challenge, there will be a coding problem that you’ll have to solve wi
 * [Score system](#score-system)
 * [Price](#price)
 * [Winner](#winner)
+* [Solution](#solution)
 
 
 ## Result
@@ -220,6 +221,23 @@ Having a neat and structured code is a must. The code quality metric will be che
 
 The winner will be announced at [Think-iT Facebook page](https://www.facebook.com/thinkit/), and the winning submission will be published in this repo.
 
+
+
+## Solution
+
+If you want to test the database system you should use the `app.py` as in python projects conventions.
+This project requires python3.6 and has no dependencies other than the standard python library.
+
+
+This is my implementation of a document based database system .
+Every entry data is stored under storage/{table_name}/{entry_primary_key}
+
+-The table class manages a table and its entries , the engine manages all table and it's used by both the API wrapper class and the interpreter.
+-The API class is used by the ORM and could be used by external programs if needed. ( given they are written in Python )
+-The interpreter is regex based and has no tokenizing since we have a limited number of statement and implementating a lexer etc would result in huge performance loss.
+
+
+We will call it `The BEST Data Storage System` or `BESTDSS` for short.
 
 ------------------
 
